@@ -87,4 +87,4 @@ python anime_overproduction_analyzer.py
 
 **Dhwanit**
 Computer Engineering Student
-Focused on data analysis, ML, and system-level thinking
+Focused on data analysis and ML
